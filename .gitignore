@@ -1,0 +1,5 @@
+# Исключения системы контроля версий Git
+/.idea
+/project/built/*
+/project/node_modules/*
+/project/scr/package-lock.json
